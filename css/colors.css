@@ -1,0 +1,134 @@
+/*------------------------------------------------------------------
+        File Name: color.css
+        Template Name: auricle
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+    1. default color
+-------------------------------------------------------------------*/
+
+@media (min-width: 992px) {
+    .white_header_font .menu > ul > li > a {
+        color: #fff;
+    }
+}
+
+.theme_color_bg {
+    background-color: #07446B;
+}
+
+.bt_main {
+    background: #07446B;
+}
+
+.bt_main:hover,
+.bt_main:focus {
+    background: #111;
+    color: #fff;
+}
+
+.reverse_bt.bt_main {
+    background: #30CFD0;
+}
+
+.reverse_bt.bt_main:hover,
+.reverse_bt.bt_main:focus {
+    background: #1e72bc;
+}
+
+.white_bt.bt_main {
+    color: #1e72bc;
+}
+
+.white_bt.bt_main:hover, 
+.white_bt.bt_main:focus {
+    background: #30CFD0;
+    color: #fff;
+}
+
+footer ul.social_icons li a:hover {
+    color: #4b31aa;
+}
+
+
+/*------------------------------------------------------------------
+    2. light sky blue
+-------------------------------------------------------------------*/
+
+.purple_theme ul.pagination li.page-item.active .page-link {
+	background: #1e72bc;
+    color: #fff;
+    border-color: #1e72bc;
+}
+
+/*------------------------------------------------------------------
+    2. light sky blue
+-------------------------------------------------------------------*/
+
+.light_sky_blue .menu > ul > li:hover > a,
+.light_sky_blue .menu > ul > li:focus > a,
+.light_sky_blue .menu > ul > li.active > a {
+    color: #21d8de;
+}
+
+.light_sky_blue .menu > ul > li > ul {
+    border-color: #21d8de;
+}
+
+.light_sky_blue .menu > ul > li > ul > li a:hover {
+    color: #21d8de;
+}
+
+.light_sky_blue .bt_main {
+    background: #21d8de;
+}
+
+.light_sky_blue .field button {
+    background: #21d8de;
+}
+
+.light_sky_blue .bt_main:hover,
+.light_sky_blue .bt_main:focus {
+    color: #fff;
+    background: #f33939;
+}
+
+.light_sky_blue .field button:hover,
+.light_sky_blue .field button:focus {
+    background: #f33939;
+}
+
+.light_sky_blue .social_icons li a:hover,
+.light_sky_blue .social_icons li a:focus {
+    color: #21d8de;
+}
+
+.light_sky_blue .heading_style_2 p.small_text {
+    color: #15acc3;
+}
+
+.light_sky_blue .team_imform p.team_mem_name {
+    color: #000;
+}
+
+.light_sky_blue .team_imform p {
+    color: #707070;
+}
+
+.light_sky_blue .white_bt.bt_main {
+    background: #fff;
+}
+
+.light_sky_blue .white_bt.bt_main:hover,
+.light_sky_blue .white_bt.bt_main:focus {
+    background: #21d8de;
+    color: #fff;
+}
+
+
+
+.light_sky_blue .menu-mobile {
+    border-color: #21d8de;
+    color: #21d8de;
+}
+
